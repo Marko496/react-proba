@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-proba/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/react-proba/static/js/main.ef92760f.chunk.js",
+    "main.js.map": "/react-proba/static/js/main.ef92760f.chunk.js.map",
+    "runtime-main.js": "/react-proba/static/js/runtime-main.0b937ab4.js",
+    "runtime-main.js.map": "/react-proba/static/js/runtime-main.0b937ab4.js.map",
+    "static/js/2.421bf6c4.chunk.js": "/react-proba/static/js/2.421bf6c4.chunk.js",
+    "static/js/2.421bf6c4.chunk.js.map": "/react-proba/static/js/2.421bf6c4.chunk.js.map",
+    "index.html": "/react-proba/index.html",
+    "precache-manifest.8ea1c59fb0ea6acfe4ced361a97b5fed.js": "/react-proba/precache-manifest.8ea1c59fb0ea6acfe4ced361a97b5fed.js",
+    "service-worker.js": "/react-proba/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/react-proba/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.421bf6c4.chunk.js.LICENSE.txt": "/react-proba/static/js/2.421bf6c4.chunk.js.LICENSE.txt",
+    "static/media/nut.jpg": "/react-proba/static/media/nut.d4eebba4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b937ab4.js",
+    "static/js/2.421bf6c4.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.ef92760f.chunk.js"
+  ]
+}
